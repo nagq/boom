@@ -78,6 +78,8 @@
     "@formily/reactive-react": "2.3.2",
     "@formily/shared": "2.3.2",
     "@formily/validator": "2.3.2",
-    "antd": "^5.20.6"
+    "@formily/antd": "2.3.2",
+    "antd": "4.20.2",
+    "@ant-design/icons": "4.x"
   }
 }
